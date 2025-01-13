@@ -30,7 +30,7 @@ export default function Document() {
             alt="Facebook Pixel NoScript Image"
           />
         </noscript>
-        <title>India&apos;s 1st Gaming Truck Startup</title>
+        <title>The Red Balloon</title>
       </Head>
 
       <body>
