@@ -17,10 +17,10 @@ export default function Products({ products }: { products: Product[] }) {
                 <div className="mx-auto max-w-2xl py-16 lg:max-w-none ">
                     <div className="text-center mb-20">
                         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                            Inside The Gaming Truck Wala
+                            Activities Inside The Red Balloon
                         </h2>
                         <p className="mt-4 text-lg leading-8 text-gray-600">
-                            Our gaming truck is your passport to an unparalleled adventure at your doorstep, offering:
+                        We bring your party dreams to life with fun-filled games, personalized decor, and exciting activities for kids and families.
                         </p>
                     </div>
                     <div className="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:gap-y-12 lg:space-y-0">

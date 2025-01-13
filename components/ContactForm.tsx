@@ -63,7 +63,7 @@ export default function ContactForm() {
                         </div>
                         <h2 className="text-3xl font-bold tracking-tight text-gray-900">Connect with Our Team!</h2>
                         <p className="mt-6 text-lg leading-8 text-gray-600">
-                        Feel free to reach out to us with any questions, inquiries, or booking requests. We&apos;re here to make your event unforgettable through the power of gaming truck!
+                        Feel free to reach out to us with any questions, inquiries, or booking requests. We&apos;re here to make your event unforgettable through the power of The Red Balloon!
                         </p>
                         <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
                             <div className="flex gap-x-4">
@@ -97,7 +97,7 @@ export default function ContactForm() {
                                 </dt>
                                 <dd>
                                     <a className="hover:text-gray-900" href="mailto:gamingtruckwala@gmail.com">
-                                        gamingtruckwala@gmail.com
+                                        theredballoon05@gmail.com
                                     </a>
                                 </dd>
                             </div>

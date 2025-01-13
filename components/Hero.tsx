@@ -53,15 +53,16 @@ export default function Hero() {
                                     data-aos='fade-up'
                                     className="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                                     <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                                        India&apos;s 1st Red Balloon Startup
+                                        {/*India&apos;s 1st Red Balloon Startup*/}
+                                        The Red Balloon
                                     </h1>
-                                    <h5 className="relative mt-0.5 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                                        (Recognised by Startup India)
-                                    </h5>
+                                    <h3 className="relative mt-0.5 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
+                                        ( - From Our Hearts to Your Celebrations! ❤️)
+                                    </h3>
                                     <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                                        Bringing Gaming Truck To Your Doorstep!
+                                        Bringing fun activities to your doorstep!
                                         <br />
-                                        Birthdays | Weddings | Corporate Events and much more!
+                                        Birthdays | Carnivals | Corporate Events and much more!
                                         {/* Cupidatat minim id magna ipsum sint dolor qui. Sunt sit in quis cupidatat mollit aute velit. Et
                                         labore commodo nulla aliqua proident mollit ullamco exercitation tempor. Sint aliqua anim nulla sunt
                                         mollit id pariatur in voluptate cillum. */}

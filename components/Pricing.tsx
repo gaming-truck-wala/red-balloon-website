@@ -10,7 +10,7 @@ const frequencies = [
 ]
 const tiers: any = [
     {
-        "name": "Birthday Wala",
+        "name": "Balloon Wala",
         "id": "tier-startup",
         "href": "tel:9530677035",
         "price": {
