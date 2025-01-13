@@ -53,7 +53,7 @@ export default function Hero() {
                                     data-aos='fade-up'
                                     className="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                                     <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                                        India&apos;s 1st Gaming Truck Startup
+                                        India&apos;s 1st Red Balloon Startup
                                     </h1>
                                     <h5 className="relative mt-0.5 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
                                         (Recognised by Startup India)
