@@ -4,86 +4,86 @@ import { CheckIcon } from '@heroicons/react/20/solid'
 
 const frequencies = [
     { value: 'jal', label: 'Jalandhar', priceSuffix: '' },
-    { value: 'ldh', label: 'Ludhiana', priceSuffix: '' },
+    // { value: 'ldh', label: 'Ludhiana', priceSuffix: '' },
     // { value: 'yearly', label: 'Amritsar', priceSuffix: '' },
     { value: 'others', label: 'Others', priceSuffix: 'Contact for price' },
 ]
 const tiers: any = [
     {
-        "name": "Balloon Wala",
+        "name": "Archery Station 🎯",
         "id": "tier-startup",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "17990",
-                "original": "13490"
+                "fake": "3500",
+                "original": "2000"
             },
-            "ldh": {
-                "fake": "22990",
-                "original": "17990"
-            },
+            // "ldh": {
+            //    "fake": "22990",
+            //     "original": "17990"
+           // },
             // "others": {
             //     "fake": "11990",
             //     "original": "14990"
             // }
         },
-        "description": "Create unforgettable birthday memories for kids with the excitement of Gaming Truck Wala.",
+        "description": "Our Archery Stall is the perfect choice to keep your guests entertained and engaged! Whether it’s a birthday party, carnival, or a family get-together, this exciting activity will leave everyone talking about your celebration for weeks!",
         "features": [
-            "Gaming Truck with AC and Comfy Sofa for 3 Hours",
-            "4 Playstations",
-            "2 VRs",
-            "Car Racing GT7 Simulation with Racing Wheel & Floor Pedals",
-            "VR Roller Coaster Experience",
-            "Sword VR Gameplay",
-            "2+ Game Coach",
-            "All Friends of the Birthday Boy/Girl Can Enjoy the Gaming Truck Vibes",
-            "Basic Red, Black, and Blue Spider-Man Themed Interior",
+            "Fun for kids, teens, and adults.",
+            "Safe setup with lightweight bows and soft-tipped arrows.",
+            "Trained supervisors ensure safety and guide players.",
+            "Interactive and engaging for all guests.",
+            "Perfect for friendly competitions and challenges.",
+            "Creates fun photo-worthy moments.",
+            "Improves focus and hand-eye coordination.",
+            "Ideal for birthdays, carnivals, and events.",
+            //"Basic Red, Black, and Blue Spider-Man Themed Interior",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Video Recording",
-            "Custom Invitation Card (Digital)",
-            "Photo Booth & Props",
+            //"Video Recording",
+            //"Custom Invitation Card (Digital)",
+            //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
-        "mostPopular": true
+        "mostPopular": false
     },
     
     {
-        name: "Shaadi Wala",
+        name: "Canvas Painting 🎨",
         id: "tier-freelancer",
         href: "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "29990",
-                "original": "24990"
+                "fake": "8000",
+                "original": "6000"
             },
-            "ldh": {
-                "fake": "31990",
-                "original": "27990"
-            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
             // "others": {
             //     "fake": "26990",
             //     "original": "21990"
             // }
         },
-        "description": "Elevate your wedding festivities with our enchanting Gaming Truck Wala experience, delighting all guests with non-stop entertainment.",
+        "description": "Add a splash of creativity to your celebrations with our Canvas Painting activity, designed to engage guests of all ages! With vibrant paints, brushes, and quality canvases provided, everyone can enjoy creating their own masterpiece to take home.",
         "features": [
-            "Gaming Truck with AC and Comfy Sofa for 5 Hours",
-            "4 Playstations",
-            "2 VRs",
-            "Car Racing GT7 Simulation with Racing Wheel & Floor Pedals",
-            "VR Roller Coaster Experience",
-            "Sword VR Gameplay",
-            "4+ Game Coach",
-            "Unlimited Gaming Fun for All Wedding Guests!",
-            "Basic Red, Black, and Blue Spider-Man Themed Interior",
-            "Prewedding Photoshoots in Our Gaming Truck",
-            "Home Function Highlights on Gaming Truck Outer Screens",
+            "Suitable for kids and adults alike.",
+            "Guests take home their own artwork.",
+            "High-quality art supplies provided.",
+            "Encourages creativity and self-expression.",
+            "Promotes fine motor skill development.",
+            "Fun, interactive, and engaging.",
+            "Perfect for birthdays, carnivals, and more.",
+            "Great bonding activity for families and friends.",
+            "Vibrant and colorful setups for photos.",
+            "Professional staff to guide participants.",
+            "Enhances the overall party experience.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Video Recording",
-            "Custom Invitation Card (Digital)",
-            "Photo Booth & Props",
+            //"Video Recording",
+            //"Custom Invitation Card (Digital)",
+            //"Photo Booth & Props",
             // "Temporary Tattoos",
             
         ],
@@ -91,43 +91,278 @@ const tiers: any = [
     },
 
     {
-        "name": "Corporate Wala",
+        "name": "Bounce House 🏰",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "29990",
-                "original": "24990"
+                "fake": "12000",
+                "original": "8000"
             },
-            "ldh": {
-                "fake": "31990",
-                "original": "27990"
-            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
             // "others": {
             //     "fake": "26990",
             //     "original": "29990"
             // }
         },
-        "description": "Bring families closer at corporate events with Gaming Truck Wala, where Gamers have a blast while employees connect",
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
         "features": [
-            "Gaming Truck with AC and Comfy Sofa for 5 Hours",
-            "4 Playstations",
-            "2 VRs",
-            "Car Racing GT7 Simulation with Racing Wheel & Floor Pedals",
-            "VR Roller Coaster Experience",
-            "Sword VR Gameplay",
-            "4+ Game Coach",
-            "Unlimited Gaming Fun for Your Corporate Family Event!",
-            "Basic Red, Black, and Blue Spider-Man Themed Interior",
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Video Recording",
-            "Custom Invitation Card (Digital)",
-            "Photo Booth & Props",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
+            // "Temporary Tattoos"
+        ],
+        "mostPopular": false
+    },
+
+    {
+        "name": "Bounce House",
+        "id": "tier-enterprise",
+        "href": "tel:9530677035",
+        "price": {
+            "jal": {
+                "fake": "12000",
+                "original": "8000"
+            },
+            // "ldh": {
+             //    "fake": "31990",
+             //    "original": "27990"
+           // },
+            // "others": {
+            //     "fake": "26990",
+            //     "original": "29990"
+            // }
+        },
+        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "features": [
+            "Ideal for birthday parties, carnivals, and festivals.",
+            "Spacious enough for multiple kids to play simultaneously.",
+            "Safe and secure design with sturdy walls.",
+            "Provides hours of bouncing fun and entertainment.",
+            "Adds an energetic and playful vibe to the event.",
+            "Encourages physical activity.",
+            "Completely supervised and managed by trained staff for a worry-free experience.",
+            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
+            "The Bounce House can be paired with other exciting games and activities.",
+            // "3D Video Experience Available with Red/Blue glasses",
+            // "Costumes(Cape + Band + Mask)",
+            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
         "mostPopular": false
     }
+
 ]
 
 
@@ -150,7 +385,7 @@ export default function Pricing() {
                 <p className="mx-auto mt-6 max-w-2xl text-center text-lg leading-8 text-gray-600 ">
                     {/* Choose an affordable plan that&apos;s packed with the best features for engaging your audience, creating customer
                     loyalty, and driving sales. */}
-                    Level Up Your Entertainment with Gaming Truck Wala!
+                    Level Up Your party with The Red Balloon!
                     {/* <br/> */}
                     {/* Note: All prices are calculated based on the assumption that the base location is Jalandhar. For services provided outside of Jalandhar, transportation charges will apply. */}
                     {/* and Make The Ordinary events Extraordinary */}
@@ -166,7 +401,7 @@ export default function Pricing() {
                     <RadioGroup
                         value={frequency}
                         onChange={setFrequency}
-                        className="grid grid-cols-3 gap-x-1 rounded-full p-1 text-center text-xs font-semibold leading-5 ring-1 ring-inset ring-gray-200"
+                        className="grid grid-cols-2 gap-x-1 rounded-full p-1 text-center text-xs font-semibold leading-5 ring-1 ring-inset ring-gray-200"
                     >
                         <RadioGroup.Label className="sr-only">Payment frequency</RadioGroup.Label>
                         {frequencies.map((option) => (

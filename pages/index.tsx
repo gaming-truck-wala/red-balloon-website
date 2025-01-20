@@ -33,10 +33,10 @@ export default function Home() {
       {/* <Stats /> */}
       <Products products={products} />
       <Features
-        header='Bookings with Gaming Truck Wala'
+        header='Bookings with The Red Balloon'
         subheader='Booking Made Simple in 3 Steps:'
-        brief='To know about availability and more details, give us a call or fill out the enquiry form. We are here to make your gaming dreams a reality!'
-        linkheading='Package Details'
+        brief='To know about activities and more details, give us a call'
+        linkheading='Activities'
         features={features}
       />
       {/* <LogoCloud logos={logos} /> */}
