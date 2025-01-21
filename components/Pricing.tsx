@@ -130,13 +130,13 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Stone Painting 🖌️",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "8000",
+                "original": "5000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -147,21 +147,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Stone painting is a creative and fun activity that allows kids and adults to turn simple stones into colorful works of art. Perfect for birthdays, carnivals, and family events, this activity encourages imagination and provides a memorable hands-on experience.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Kids and adults can paint stones with unique designs and colors.",
+            "Includes brushes, paint, and a variety of stones to choose from.",
+            "A great way to spark imagination and artistic skills.",
+            "Painted stones can be kept as keepsakes or gifts.",
+            "A calming activity that also entertains.",
+            "Great for bonding moments during the event.",
+            "Perfect for both indoor and outdoor events.",
+            "Make your celebration more colorful and creative with The Red Balloon’s Stone Painting Service!",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            //"Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            //"With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
@@ -169,7 +169,7 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Fairy Garden 🪴",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
@@ -186,21 +186,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Bring the magic of fairy tales to your celebration with our Fairy Garden activity! Guests, especially kids, can design their own miniature enchanted gardens using tiny plants, pebbles, fairy figurines, and magical accessories. This hands-on activity sparks imagination and leaves everyone with a charming keepsake to take home.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Create enchanting fairy gardens with tiny fairies, houses, and accessories.",
+            "Includes live plants, natural pebbles, and biodegradable decor items.",
+            "Guests can personalize their gardens with their favorite colors and styles.",
+            "Guests leave with a beautiful miniature garden they’ve created themselves.",
+            "Loved by kids and equally enjoyable for teens and adults.",
+            "A unique activity that adds a magical charm to birthdays or carnivals.",
+            "We provide everything needed, from tiny plants to adorable fairy accessories.",
+            "Teaches kids about nature and gardening in a fun way.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+            "A lasting token of your event that guests will cherish.",
+           // "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
@@ -208,13 +208,13 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Tattoo Artist 🎨",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "4500",
+                "original": "3000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -225,21 +225,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Bring the excitement of live artistry to your event with our professional tattoo artist service! Our skilled tattoo artists create temporary tattoos on-site, offering a variety of designs, from glitter tattoos to themed creations. It’s a crowd-pleaser that keeps guests entertained and gives them a unique memento to take home.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Professional tattoo artists ensure clean and precise application.",
+            "Guests can request custom designs to match their style or event theme.",
+            "A live tattooing experience that engages guests of all ages.",
+            "Non-toxic and skin-friendly paints for worry-free fun.",
+            "Durable designs that last through the event and can be easily removed.",
+            "Perfect for kids, teens, and adults alike.",
+            "Guests leave with a fun and unique tattoo to remember your event.",
+           // "The Bounce House can be paired with other exciting games and activities.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+           // "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+           // "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
@@ -247,13 +247,13 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Popcorn Station 🍿",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "9000",
+                "original": "5000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -264,21 +264,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Delight your guests with the irresistible aroma and taste of freshly popped popcorn! Our Popcorn Station adds a classic and fun element to your event, perfect for kids and adults alike. Whether it’s a birthday party, carnival, or any celebration, the popcorn station is always a crowd favorite.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Hot, buttery popcorn made on-site for that authentic experience.",
+            "Guests enjoy watching the popcorn pop.",
+            "We provide the popcorn machine, supplies, and serving essentials.",
+            "A hit among kids, teens, and adults alike.",
+            "Adds charm and fun without breaking the budget.",
+            "Popcorn is prepared and served with care.",
+            "Make your celebration extra special and delicious with The Red Balloon’s Popcorn Station - guaranteed to bring smiles and flavor to your event!",
+           // "The Bounce House can be paired with other exciting games and activities.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+           // "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+           // "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
@@ -286,7 +286,7 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Glass Can Painting 🎨",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
@@ -303,21 +303,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Let creativity flow with our Glass Can Painting activity! This unique and artistic service allows guests to paint and decorate glass cans with their own colorful designs. Perfect for kids and adults, this engaging activity is both fun and rewarding, as everyone gets to take home their personalized masterpiece.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Guests unleash their artistic side by painting their own glass cans.",
+            "Each participant takes home a personalized glass can.",
+            "A hands-on activity that’s enjoyable for all age groups.",
+            "We handle everything, from the glass cans to the painting materials.",
+            "Perfect for kids, teens, and even adults looking for a creative outlet.",
+            "Guests love snapping photos of their creations.",
+            "A fun and time-worthy activity for any celebration.",
+            "Add a touch of creativity to your event with Glass Can Painting by The Red Balloon.",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+           // "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            //"With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],
@@ -325,13 +325,13 @@ const tiers: any = [
     },
 
     {
-        "name": "Bounce House",
+        "name": "Magic Show 🎩",
         "id": "tier-enterprise",
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "9000",
+                "original": "5000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -342,21 +342,21 @@ const tiers: any = [
             //     "original": "29990"
             // }
         },
-        "description": "The Bounce House from The Red Balloon is a fun-filled, safe, and exciting addition to any event, perfect for kids to enjoy. It’s the perfect way to bring joy and laughter to any celebration!",
+        "description": "Bring the wonder of magic to your next event with The Red Balloon's Magic Show! 🎩✨ This exciting service offers a mesmerizing experience that captivates audiences of all ages. Whether it's a birthday party 🎉, carnival 🎪, or any special occasion, our skilled magician 🧙‍♂️ will leave your guests in awe with jaw-dropping tricks, illusions, and fun interactions.",
         "features": [
             "Ideal for birthday parties, carnivals, and festivals.",
-            "Spacious enough for multiple kids to play simultaneously.",
-            "Safe and secure design with sturdy walls.",
-            "Provides hours of bouncing fun and entertainment.",
-            "Adds an energetic and playful vibe to the event.",
-            "Encourages physical activity.",
-            "Completely supervised and managed by trained staff for a worry-free experience.",
-            "Perfect for both indoor and outdoor events, adaptable to different spaces.",
-            "The Bounce House can be paired with other exciting games and activities.",
+            "Our experienced magician brings skill and charm to the stage, creating a magical atmosphere with every trick.",
+            "A professional magician who will wow your guests with expert tricks.",
+            "Suitable for children, adults, and families.",
+            "Safe, fun, and enjoyable for everyone.",
+            "A magical experience that will keep everyone on the edge of their seats.",
+            "Perfect for both small and large gatherings.",
+            "Adds excitement and laughter to your event.",
+            "Let The Red Balloon bring the magic and wonder to your next celebration!",
             // "3D Video Experience Available with Red/Blue glasses",
             // "Costumes(Cape + Band + Mask)",
-            "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
-            "With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
+           // "Reliable and on-time delivery, ensuring the Bounce House is ready to go for the event.",
+            //"With The Red Balloon's Bounce House, you're guaranteed a safe, fun, and unforgettable experience for every child at your event!",
             //"Photo Booth & Props",
             // "Temporary Tattoos"
         ],

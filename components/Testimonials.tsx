@@ -1,8 +1,8 @@
 const featuredTestimonial = {
-    body: 'Our journey is fueled by the passion to bring more than just gaming. GTW is about creating moments, memories, and a sense of togetherness. We are not just delivering gaming services; we are delivering joy, laughter, and a touch of magic right to your doorstep. Thank you for letting us be a part of your gaming story.',
+    body: 'my dream is to bring joy and create special memories for every celebration. Watching kids smile and have fun with our activities, makes all the hard work worth it. We put our hearts into making every event unforgettable. Thank you for letting us be part of your celebrations!',
     author: {
         name: 'Gaurav Seth',
-        handle: 'Gaming Truck Wala',
+        handle: 'The Red Balloon',
         imageUrl:
             '/gaurav.webp',
         logoUrl: '/fulllogo.webp',
