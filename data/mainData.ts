@@ -56,10 +56,10 @@ export const testimonials = [
   ],
 ]
 export const featuredTestimonial = {
-  body: 'GTW is about creating moments, memories, and a sense of togetherness. We are not just delivering gaming services; we are delivering joy, laughter, and a touch of magic right to your doorstep. Thank you for letting us be a part of your gaming story.',
+  body: 'My dream is to bring joy and create special memories for every celebration. Watching kids smile and have fun with our activities, makes all the hard work worth it. We put our hearts into making every event unforgettable. Thank you for letting us be part of your celebrations!',
   author: {
     name: 'Gaurav Seth',
-    handle: 'Gaming Truck Wala',
+    handle: 'The Red Balloon',
     imageUrl: '/gaurav.webp',
     logoUrl: '/fulllogo.webp',
   },
@@ -67,9 +67,9 @@ export const featuredTestimonial = {
 
 export const features = [
   {
-    name: 'Select Your Ideal Package',
+    name: 'Select Your Activity',
     description:
-      'Browse through our range of gaming packages and choose the one that aligns perfectly with your event vibe and audience.',
+      'Browse through our range of Activities and choose the one that aligns perfectly with your event vibe and audience.',
     href: '/pricing',
     icon: CakeIcon,
   },
@@ -83,7 +83,7 @@ export const features = [
   {
     name: 'Countdown to Fun',
     description:
-      ' Sit back and relax as your event day approaches. Our Gaming Truck Wala will arrive at your designated location, fully equipped and ready to roll out an incredible gaming experience.',
+      ' Sit back and relax as your event day approaches. The Red Balloon will arrive at your location, fully equipped and ready to roll out an incredible activity.',
     href: '/pricing',
     icon: TruckIcon,
   },
@@ -99,65 +99,65 @@ export const logos = [
 
 export const faqs = [
   {
-    question: "What is a gaming truck?",
+    question: "What is The Red Balloon?",
     answer:
-        "A gaming truck is like a big video game party on wheels. It has TVs and game consoles inside. ",
+        "We are an event service provider specializing in kids' activities, theme decor, and fun-filled games for birthdays, carnivals, and celebrations.",
 },
 {
-    question: "How many friends can play in a gaming truck?",
+    question: "Where are you located?",
     answer:
-        "Our gaming truck can accommodate up to 6 players for single-player games and up to 16 players for multiplayer games.",
+        "We’re based in Jalandhar, Punjab, and currently serve events in the surrounding areas.",
 },
 {
-    question: "Can I choose the games I want to play?",
+    question: "What activities do you offer?",
     answer:
-        "Yes, you can usually pick from a bunch of games.",
+        "We offer a variety of activities like face painting, slime stations, canvas painting, gaming truck, bounce house, archery station, popcorn stations, and more.",
 },
 {
-    question: "Can I have a gaming truck at my school event?",
+    question: "Do you provide themed decor?",
     answer:
-        "Yes, you can have a gaming truck at your school event.",
+        "Yes! We design customized decor to match the theme of your event.",
 },
 {
-    question: "How early should I book a gaming truck?",
+    question: "Are your activities suitable for all age groups?",
     answer:
-        "Try to book it as soon as you know the date of your event, so you can make sure it's available.",
+        "Absolutely! We have activities and games for kids, teens, and even adults.",
 },
 {
-    question: "Is a gaming truck just for kids?",
+    question: "How much space is needed for your setups?",
     answer:
-        "No, adults can also have fun in a gaming truck too!",
+        "Our setups are flexible and can be customized to fit the space available at your venue.",
 },
 {
-    question: "Can I eat and drink inside the gaming truck?",
+    question: "Do you provide staff to manage the activities?",
     answer:
-        "I apologize, but eating and drinking inside the gaming truck are not allowed due to concerns about the interior and electronic devices.",
+        "Yes, our trained staff ensures every activity runs smoothly and safely.",
 },
 {
-    question: "Do I have to be really good at video games to play in a gaming truck?",
+    question: "What is the cost of your services?",
     answer:
-        "Not at all! Gaming truck Wala is for people of all skill levels.",
+        "Our pricing varies based on the activities and services you choose. Contact us for customized packages.",
 },
 
 {
-    question: "What is the maximum number of people that can be seated in Gaming Truck Wala's Truck?",
+    question: "Can we book individual activities?",
     answer:
-        "Our Gaming Truck is capable of accommodating 12-16 Gamers inside it.",
+        "Yes, you can select individual activities as per your preference.",
 },
 {
-    question: "Does the truck get driven around while the party is going on?",
+    question: "How far in advance should we book?",
     answer:
-        "The Gaming Truck remains entirely stationary during the party.",
+        "We recommend booking at least 2-3 weeks in advance to secure your date.",
 },
 {
-    question: "Is there a minimum or maximum age requirement for individuals who can use the Game Truck for gaming?",
+    question: "Do you provide food services?",
     answer:
-        "Our recommended minimum age for using the Game Truck is 7 years old.",
+        "Yes, we offer treats like popcorn, cotton candy, and more!",
 },
 {
-    question: "Is it necessary to have a large parking space for the Gaming Truck?",
+    question: "Can you cater to outdoor events?",
     answer:
-        "For proper parking and setup of the Game Truck, a minimum area of 22ft x 10ft is required.",
+        "Yes, we provide services for both indoor and outdoor events.",
 },
 // {
 //     question: "What is the power source required to operate the Game Truck?",
@@ -165,49 +165,54 @@ export const faqs = [
 //         "To operate the Game Truck, we need a nearby 16 Amp switch. In case it is not feasible, we have a backup generator available at extra cost.",
 // },
 {
-    question: "Is it necessary for parents or guardians to oversee the party?",
+    question: "Do you offer customization options for activities?",
     answer:
-        "Although parental supervision is not compulsory, It is advisable to have at least one adult available to help our game coach supervise children aged seven or younger.",
+        "Absolutely! We can tailor activities and setups to suit your event theme.",
 },
 {
-    question: "What all gaming consoles does the Gaming Truck Wala offer?",
+    question: "Are your materials safe for kids?",
     answer:
-        "Gaming Truck Wala offers Play Station 5, Oculus VR Setups and Logitech Racing Wheel & Floor Pedals",
+        "Yes, all our materials are non-toxic and kid-friendly.",
 },
 {
-    question: "For what events Gaming Truck Wala is an excellent choice?",
+    question: "How do I book your services?",
     answer:
-        "Gaming trucks for epic parties perfect for birthdays, weddings, get-togethers, farewells, corporate events, and more! ",
+        "Simply reach out to us via phone, or instagram to discuss your requirements and confirm your booking.",
 },
 {
-    question: "How far in advance should I reserve the gaming truck for my event?",
+    question: "Do you provide services outside Jalandhar?",
     answer:
-        "Booking the gaming truck in advance is highly recommended to ensure availability on your preferred date and time. While we strive to accommodate last-minute requests subject to availability, we strongly recommend booking at least 30 days in advance. This advance booking period allows us to better plan and prepare for your event, ensuring that your gaming experience is seamless and enjoyable. However, feel free to contact us even if your event is closer to discuss the possibilities, as we'll do our best to accommodate your gaming truck needs.",
+        "Currently, we’re based in Jalandhar but can accommodate nearby cities.",
 },
 {
-    question: "What is the initial booking fee required to reserve the gaming truck for my event?",
+    question: "Can parents participate in the activities?",
     answer:
-        "To secure your gaming truck reservation, an initial payment of 25% of the selected package price is required. This deposit ensures your booking is confirmed and reserved for your specified date and time.",
+        "Of course! Many of our activities are family-friendly and encourage participation from all ages.",
 },
 {
-    question: "What is the policy for clearing the remaining payment for the gaming truck rental?",
+    question: "How can I learn more about your offerings?",
     answer:
-        "We kindly request that the remaining payment be cleared at least one week before the scheduled event date. Our team will get in touch with you to facilitate the payment process and ensure everything is in order for your upcoming gaming truck experience.",
+        "Contact us directly for detailed information about our services.",
 },
 {
-    question: "What is the policy for clearing the remaining payment for the gaming truck rental?",
+    question: "Do you provide party invitations or return gifts?",
     answer:
-        "We kindly request that the remaining payment be cleared at least one week before the scheduled event date. Our team will get in touch with you to facilitate the payment process and ensure everything is in order for your upcoming gaming truck experience.",
+        "Yes, we provide beautifully designed party invitations that can be customized to match your theme and preferences. Additionally, we offer a variety of return gift options to suit different age groups and occasions, ensuring your guests leave with a memorable token of the celebration. Let us know your requirements, and we’ll handle the rest!",
 },
 {
-    question: "If I book the gaming truck within one week before the event, what is the payment policy regarding the clearance of the full payment?",
+    question: "Can we mix and match activities from different packages?",
     answer:
-        "When booking within one week before the event, we first check the availability of the gaming truck. If it is available, according to our payment policy, the full payment should be cleared at the time of booking.",
+        "Yes, you can customize your package by selecting the activities you prefer.",
 },
 {
-    question: "What is the refund policy if I need to cancel my gaming truck booking just before the event?",
+    question: "Is there a minimum or maximum guest limit for your services?",
     answer:
-        "If you need to cancel your gaming truck booking just before the event, the booking or reservation amount is not refundable.",
+        "No, we cater to events of all sizes, from small gatherings to large celebrations.",
+},
+{
+  question: "Can we include unique activities not listed on your website?",
+  answer:
+      "Let us know your ideas, and we’ll do our best to accommodate them!",
 },
 
 
@@ -217,7 +222,7 @@ export const faqs = [
 export const products = [
   {
     name: '',
-    description: 'Gaming Truck with AC and Comfy Sofa',
+    description: 'Archery Station 🎯',
     imageSrc:
       'gtwmodel.webp',
     imageAlt: 'Gaming Truck Wala',
@@ -225,7 +230,7 @@ export const products = [
   
   {
     name: '',
-    description: 'Car Racing GT7 Simulation',
+    description: 'Canvas Painting 🎨',
     imageSrc:
       'logitech.webp',
     imageAlt: 'Gaming Truck Wala',
@@ -233,14 +238,14 @@ export const products = [
 
   {
     name: '',
-    description: 'VR Roller Coaster Experience',
+    description: 'Bounce House 🏰',
     imageSrc:
       'rollercoaster.webp',
     imageAlt: 'Gaming Truck Wala',
   },
   {
     name: '',
-    description: 'Sword VR Gameplay',
+    description: 'Stone Painting 🖌️',
     imageSrc:
       'sword.webp',
     imageAlt:
@@ -248,7 +253,7 @@ export const products = [
   },
   {
     name: '',
-    description: 'PlayStation 5 Gaming Consoles',
+    description: 'Fairy Garden 🪴',
     imageSrc:
       '/ps5.webp',
     imageAlt:
@@ -263,14 +268,14 @@ export const products = [
   // },
   {
     name: '',
-    description: '15+ Thrilling Games',
+    description: 'Tattoo Artist 🎨',
     imageSrc:
       'gamecd.webp',
     imageAlt: 'Gaming Truck Wala',
   },
   {
     name: '',
-    description: 'Integrated Music System',
+    description: 'Popcorn Station 🍿',
     imageSrc:
       '/musicposter.webp',
     imageAlt: 'Gaming Truck Wala',
@@ -278,7 +283,23 @@ export const products = [
 
   {
     name: '',
-    description: 'Gaming Coach',
+    description: 'Glass Can Painting 🎨',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Magic Show 🎩',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Gaming Truck',
     imageSrc:
       'gamingcoach.webp',
     imageAlt: 'Gaming Truck Wala',

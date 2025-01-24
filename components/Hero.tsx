@@ -57,7 +57,7 @@ export default function Hero() {
                                         The Red Balloon
                                     </h1>
                                     <h3 className="relative mt-0.5 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                                        ( - From Our Hearts to Your Celebrations! ❤️)
+                                        (From Our Hearts to Your Celebrations!)
                                     </h3>
                                     <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
                                         Bringing fun activities to your doorstep!

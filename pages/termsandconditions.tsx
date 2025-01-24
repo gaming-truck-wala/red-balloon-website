@@ -5,36 +5,36 @@ import FAQs from '@/components/FAQs'
 
 const faqs = [
     {
-        question: "How far in advance should I reserve the gaming truck for my event?",
+        question: "Booking and Payments",
         answer:
-            "Booking the gaming truck in advance is highly recommended to ensure availability on your preferred date and time. While we strive to accommodate last-minute requests subject to availability, we strongly recommend booking at least 30 days in advance. This advance booking period allows us to better plan and prepare for your event, ensuring that your gaming experience is seamless and enjoyable. However, feel free to contact us even if your event is closer to discuss the possibilities, as we'll do our best to accommodate your gaming truck needs.",
+            "A small deposit of 25% secures your booking, giving you flexibility.",
     },
     {
-        question: "What is the initial booking fee required to reserve the gaming truck for my event?",
+        question: "Cancellation and Refunds",
         answer:
-            "To secure your gaming truck reservation, an initial payment of 25% of the selected package price is required. This deposit ensures your booking is confirmed and reserved for your specified date and time.",
+            "For cancellations, we offer rescheduling or refunds based on circumstances.",
     },
     {
-        question: "What is the policy for clearing the remaining payment for the gaming truck rental?",
+        question: "Client Responsibilities",
         answer:
-            "We kindly request that the remaining payment be cleared at least one week before the scheduled event date. Our team will get in touch with you to facilitate the payment process and ensure everything is in order for your upcoming gaming truck experience.",
+            "The client is responsible for any damages caused to The Red Balloon's equipment by guests.",
     },
     {
-        question: "What is the policy for clearing the remaining payment for the gaming truck rental?",
+        question: "Weather and Unforeseen Circumstances",
         answer:
-            "We kindly request that the remaining payment be cleared at least one week before the scheduled event date. Our team will get in touch with you to facilitate the payment process and ensure everything is in order for your upcoming gaming truck experience.",
+            "Outdoor events may be affected by weather conditions. In case of rain or extreme weather, we will attempt to move activities indoors.",
     },
     {
-        question: "If I book the gaming truck within one week before the event, what is the payment policy regarding the clearance of the full payment?",
+        question: "Intellectual Property",
         answer:
-            "When booking within one week before the event, we first check the availability of the gaming truck. If it is available, according to our payment policy, the full payment should be cleared at the time of booking.",
+            "All images, logos, and content related to The Red Balloon are the property of our company and may not be used without prior permission.",
     },
     {
-        question: "What is the refund policy if I need to cancel my gaming truck booking just before the event?",
+        question: "Disputes and Resolution",
         answer:
-            "If you need to cancel your gaming truck booking just before the event, the booking or reservation amount is not refundable.",
+            "Any disputes will be resolved amicably through mutual discussion.",
     },
-    {
+    /*{
         question: " Copyright polices w.r.t photographs & videos?",
         answer:
             "Gaming Truck Wala has the rights to any pictures & videos taken at the party. If you don't want them to be used on any of our social pages, kindly inform us while booking the party.",
@@ -53,11 +53,11 @@ const faqs = [
         question: "Damage And/Or Injury?",
         answer:
             "Neither Gaming Truck Wala, nor any of its employees, shall be responsible for any damage to property resulting from a request by the client to position the theater in a specific location. This includes any kind of equipment damage. Additionally, Gaming Truck Wala reserves the right to charge the invoice and the client agrees to pay for damages, theft, or loss to the game theater or equipment resulting from accidental, careless or willful damage by the client’s guests. All liability for damages or injuries is the sole responsibility of the client and/or host.",
-    },
+    },*/
     {
         question: "Terms & Conditions applied:",
         answer:
-            "By booking the Gaming Truck, the Client acknowledges and agrees to abide by these terms and conditions.",
+            "By booking the Red Balloon, the Client acknowledges and agrees to abide by these terms and conditions.",
     },
   
     // More questions...

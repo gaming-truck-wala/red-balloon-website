@@ -1,15 +1,15 @@
 const navigation = {
     main: [
-        { name: 'Franchise', href: '/franchise' },
+        { name: 'Partner', href: '/franchise' },
         { name: 'Pricing', href: '/pricing' },
-        { name: 'Enquiry', href: 'enquiry' },
+        //{ name: 'Enquiry', href: 'enquiry' },
         { name: 'About', href: 'about' },
         { name: 'Contact', href: 'contact' },
         { name: 'FAQs', href: '/faqs' },
         { name: 'Terms & Conditions', href: '/termsandconditions' },
     ],
     social: [
-        {
+        /*{
             name: 'Facebook',
             href: 'https://www.facebook.com/profile.php?id=100094656426551',
             icon: (props: any) => (
@@ -29,10 +29,10 @@ const navigation = {
                     <path d="M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3" />
                 </svg>
             ),
-        },
+        },*/
         {
             name: 'Instagram',
-            href: 'https://www.instagram.com/gamingtruckwala/',
+            href: 'https://www.instagram.com/theredballoon.in/',
             icon: (props: any) => (
                 <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
                     <path
@@ -43,7 +43,7 @@ const navigation = {
                 </svg>
             ),
         },
-        {
+        /*{
             name: 'Twitter',
             href: '#',
             icon: () => (
@@ -63,7 +63,7 @@ const navigation = {
                     <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c0 -.249 1.51 -2.772 1.818 -4.013z" />
                 </svg>
             ),
-        },
+        },*/
         {
             name: 'Whatsapp',
             href: 'https://wa.me/919530677035',
@@ -87,7 +87,7 @@ const navigation = {
 
             ),
         },
-        {
+        /*{
             name: 'Linkedin',
             href: 'https://www.linkedin.com/company/gamingtruckwala/',
             icon: (props: any) => (
@@ -112,7 +112,7 @@ const navigation = {
                 </svg>
 
             ),
-        },
+        },*/
         {
             name: 'YouTube',
             href: 'https://www.youtube.com/channel/UCUSwLUETP-DmGwp5dI4XWcg',

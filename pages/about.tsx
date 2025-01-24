@@ -8,14 +8,14 @@ const features = [
     {
         name: 'Who We Are',
         description:
-            'A team, who saw the potential to transform gaming into an immersive, on-the-go experience.',
+            'We are the same creative minds behind the successful Gaming Truck Wala startup, known for delivering thrilling gaming experiences to events. Building on that success, we launched The Red Balloon to expand into a world of fun-filled activities and celebrations for all ages.',
         href: '/contact',
         icon: QuestionMarkCircleIcon,
     },
     {
         name: 'Our Vision',
         description:
-            'To redefine gaming and entertainment through innovation and entrepreneurship, bringing the gaming cafe experience right to your doorstep.',
+            'Our vision is simple yet powerful—to spread smiles everywhere we go. We believe every event is an opportunity to create happiness, foster creativity, and bring people together.',
         href: '/contact',
         icon: LightBulbIcon,
     },
@@ -23,7 +23,7 @@ const features = [
     {
         name: 'Join the Movement',
         description:
-            'Whether you are seeking a gaming venture or an extraordinary event experience, Gaming Truck Wala is here to rewrite the rules of entertainment and bring the gaming cafe to your doorstep. ',
+            'Celebrations are more than just events; they’re memories in the making. Join us in spreading joy, laughter, and unforgettable moments. Whether you’re planning a party, a carnival, or a special event, The Red Balloon is here to make it magical!',
         href: '/contact',
         icon: UserGroupIcon,
     },
@@ -35,7 +35,7 @@ const About = () => {
             <MainLayout>
                 <Features
                 header='Team'
-                subheader='Gaming Truck Wala'
+                subheader='The Red Balloon'
                 brief=''
                 linkheading='Contact Us'
                 features={features} />

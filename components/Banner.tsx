@@ -14,7 +14,7 @@ export default function Banner() {
                         <circle cx={1} cy={1} r={1} />
                     </svg>
                     {/* Join us in Denver from June 7 - 9 to see what&apos;s coming next&nbsp;<span aria-hidden="true">&rarr;</span> */}
-                    Unlock non-stop fun and creativity for just Rs 2,490 <span aria-hidden="true">&rarr;</span>
+                    Unlock non-stop fun and creativity for just Rs 2,990 <span aria-hidden="true">&rarr;</span>
                 </a>
             </p>
             <div className="flex flex-1 justify-end">

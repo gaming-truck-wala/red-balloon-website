@@ -484,7 +484,7 @@ export default function Pricing() {
                     {/* Choose an affordable plan that&apos;s packed with the best features for engaging your audience, creating customer
                     loyalty, and driving sales. */}
 
-                    Want to Reserve Gaming Truck Wala for Your School or College Event ?<br /> Call Now!
+                    Want to Reserve The Red Balloon for Your School or College Event ?<br /> Call Now!
                     {/* and Make The Ordinary events Extraordinary */}
                 </p>
             </div>

@@ -73,23 +73,23 @@ import Testimonials from '@/components/Testimonials'
 // }
 const features = [
     {
-        name: 'Discover the Gaming Truck Wala Franchise Opportunity',
+        name: 'Discover The Red Balloon Partner Opportunity',
         description:
-            'The Gaming Truck Wala franchise offers an exceptional chance to merge your love for gaming with a thriving business venture. Our gaming trucks bring an unparalleled gaming experience directly to customers, making us the go-to entertainment choice for events and parties.',
+            'At The Red Balloon, we believe in spreading smiles through unique and exciting celebrations. To continue growing and expanding our services, we are looking for passionate individuals and businesses to join us as partners. If you have a creative skill like canvas painting, tattoo artistry, or any unique activity idea, or if you can arrange fun and engaging activities, this is your chance to collaborate with us. Together, we can revolutionize the event industry and create unforgettable memories for families and communities.',
         href: '/contact',
         icon: SunIcon,
     },
     {
-        name: 'Why Choose Gaming Truck Wala?',
+        name: 'Why Choose The Red Balloon?',
         description:
-            'Choosing Gaming Truck Wala means joining a community of like-minded individuals who are passionate about both gaming and entrepreneurship. The gaming industry is growth is undeniable. By investing in a Gaming Truck Wala franchise, you are positioning yourself in an industry with long-term potential. With a concept that resonates with people of all ages, you are securing a future-proof investment that is set to thrive. ',
+            'As the same team behind the successful Gaming Truck Wala startup, we’ve proven our expertise in delivering joyful experiences. Now, with The Red Balloon, we’re expanding into new cities and adding more innovative activities to our offerings. By becoming our partner, you’ll be part of a trusted and growing brand that values creativity, quality, and customer satisfaction. We provide a well-established platform, access to a growing customer base, and opportunities to showcase your talent or services to a larger audience.',
         href: '/contact',
         icon: QuestionMarkCircleIcon,
     },
     {
-        name: 'Franchisee Support',
+        name: 'Business Support and Growth Opportunities',
         description:
-            'Comprehensive training is provided to ensure that you are well-versed in operating the gaming trucks, troubleshooting technical issues, and managing customer interactions. Benefit from our proven marketing strategies and branding materials to attract customers and build a loyal fan base in your area. Our technical support team is just a call away to help you with any operational issues you might encounter, ensuring seamless gaming sessions for your customers.',
+            'When you partner with The Red Balloon, you’re not just joining a business—you’re becoming part of a supportive and collaborative community. We offer marketing, operational, and logistical support to ensure mutual growth and success. Whether you’re a tattoo artist, a skilled craftsman, or someone with a new activity idea, we’ll work together to integrate your expertise into our events. As we expand into new cities and innovate our offerings, this partnership is your chance to grow with us and be part of a movement that spreads joy everywhere.',
         href: '/contact',
         icon: PhoneIcon,
     },
@@ -124,8 +124,8 @@ const FranchisePage = () => {
             <MainLayout>
                 <Features 
                 header='Launching Soon!'
-                subheader='Join Our Growing Franchise Family'
-                brief='Gaming Truck Wala'
+                subheader='Join Our Growing Business Family'
+                brief='The Red Balloon'
                 linkheading='Contact Us'
                 features={features} />
                 
@@ -138,7 +138,7 @@ const FranchisePage = () => {
                 features={featuresBelow} /> */}
 
                 <CTA 
-                header='Become Our Franchise Partner' 
+                header='Become Our Business Partner' 
                 subheader='Join the family of aspiring entrepreneurs'
                 primaryLink ={
                     {slug :'https://wa.me/919530677035', 

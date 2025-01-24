@@ -51,7 +51,7 @@ export default function Home() {
         testimonials={testimonials}
       />
       <CTA
-        header='Gaming Truck Wala'
+        header='The Red Balloon'
         subheader='Dont miss the chance to celebrate your events with us'
         primaryLink={{
           slug: '/pricing',

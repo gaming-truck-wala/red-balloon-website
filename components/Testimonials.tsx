@@ -97,9 +97,9 @@ export default function Testimonials({featuredTestimonial, testimonials}:{featur
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-xl text-center">
                     <h2 className="text-lg font-semibold leading-8 tracking-tight text-gtw-red">
-                        Pre-Launch Buzz</h2>
+                        Reviews</h2>
                     <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                        Excitement Builds for Gaming Truck Wala Launch!
+                        The Red Balloon!
                     </p>
                 </div>
                 <div 
