@@ -9,61 +9,62 @@ const testimonials = [
     [
         [
             {
-                body: 'I cant believe it, a truck filled with games! This is going to be the coolest thing ever! I cant wait to play all my favorite games with my friends!',
-                author: {
-                    name: 'Manvir Singh',
-                    handle: 'Student',
-                    imageUrl:
-                        'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-                },
+              body: 'I booked their canvas painting and archery stalls for a carnival, and it was a hit! Everything was organized perfectly, and the team was so professional.',
+              author: {
+                name: 'Amanpreet Kaur',
+                handle: 'Parent',
+                // imageUrl:
+                  // 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+              },
             },
             // More testimonials...
+          ],
+          [
+            {
+              body: 'The Red Balloon team exceeded our expectations. The slime station was a favorite among the kids, and the decor matched our theme perfectly. Worth every penny!',
+              author: {
+                name: 'Neha Gupta',
+                handle: 'Parent',
+                // imageUrl:
+                  // 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+              },
+            },
+            
+            // More testimonials...
+          ],
         ],
         [
+          [
             {
-                body: 'Back in my day, we never had anything like this! The Gaming Truck Wala sounds like a blast, and I cant wait to see my grandkids enjoy something so innovative.',
-                author: {
-                    name: 'Ved Prakash Puri',
-                    handle: 'Grand Parent',
-                    imageUrl:
-                        'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-                },
+              body: 'Such a creative and fun experience for the kids! The staff was friendly, and the activities were safe and engaging. Everyone at the party had a great time. Thank you!',
+              author: {
+                name: 'Karan Arora',
+                handle: 'Parent',
+                // imageUrl:
+                  // 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
+              },
             },
             // More testimonials...
-        ],
-    ],
-    [
-        [
+          ],
+          [
             {
-                body: 'Finally, a unique and safe entertainment option for our kids! The Gaming Truck Wala is exactly what we needed to make parties stress-free and enjoyable.',
-                author: {
-                    name: 'Sneha Sharma',
-                    handle: 'Parent',
-                    imageUrl:
-                        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-                },
+              body: 'Our carnival was a success, all thanks to The Red Balloon! The activities were unique, and the kids were thrilled. Highly professional and organized team.',
+              author: {
+                name: 'Tanya Malhotra',
+                handle: 'Event Organiser',
+                // imageUrl:
+                  // 'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80',
+              },
             },
             // More testimonials...
-        ],
-        [
-            {
-                body: 'Before the Gaming Truck Wala is even launched, I can already imagine the excitement it will bring to weddings. Kids who used to feel bored will now be looking forward to weddings because of this surprise. I cant wait to see the happiness it will create!',
-                author: {
-                    name: 'Ananya',
-                    handle: 'Event Manager',
-                    imageUrl:
-                        'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=1024&h=1024&q=80',
-                },
-            },
-            // More testimonials...
-        ],
+          ],
     ],
   ]
   const featuredTestimonial = {
-    body: 'Our upcoming launch is not just about gaming; its about crafting unforgettable experiences. We are dedicated to bringing joy, laughter, and a new level of excitement to events.',
+    body: 'My dream is to bring joy and create special memories for every celebration. Watching kids smile and have fun with our activities, makes all the hard work worth it. We put our hearts into making every event unforgettable. Thank you for letting us be part of your celebrations!',
     author: {
         name: 'Gaurav Seth',
-        handle: 'Gaming Truck Wala',
+        handle: 'The Red Balloon',
         imageUrl:
             '/gaurav.webp',
         logoUrl: '/fulllogo.webp',
