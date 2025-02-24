@@ -222,7 +222,7 @@ export const faqs = [
 export const products = [
   {
     name: '',
-    description: 'Archery Station 🎯',
+    description: 'Gaming Truck 🎮🚛',
     imageSrc:
       'gtwmodel.webp',
     imageAlt: 'Gaming Truck Wala',
@@ -230,7 +230,7 @@ export const products = [
   
   {
     name: '',
-    description: 'Canvas Painting 🎨',
+    description: 'Bounce House 🏰',
     imageSrc:
       'logitech.webp',
     imageAlt: 'Gaming Truck Wala',
@@ -238,14 +238,14 @@ export const products = [
 
   {
     name: '',
-    description: 'Bounce House 🏰',
+    description: 'Canvas Painting 🎨',
     imageSrc:
       'rollercoaster.webp',
     imageAlt: 'Gaming Truck Wala',
   },
   {
     name: '',
-    description: 'Stone Painting 🖌️',
+    description: 'Balloon Dart 🎯',
     imageSrc:
       'sword.webp',
     imageAlt:
@@ -253,7 +253,7 @@ export const products = [
   },
   {
     name: '',
-    description: 'Fairy Garden 🪴',
+    description: 'Snap Wall 📸',
     imageSrc:
       '/ps5.webp',
     imageAlt:
@@ -275,9 +275,87 @@ export const products = [
   },
   {
     name: '',
-    description: 'Popcorn Station 🍿',
+    description: 'Mini Golf ⛳',
     imageSrc:
       '/musicposter.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Ball in Bucket 🪣',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Cup Shoot 🎯',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Angry Bird Football Toss ⚽🐦',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+  {
+    name: '',
+    description: 'Ring Toss 🛞🏆',
+    imageSrc:
+      '/musicposter.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Pass the Ball from Joker’s Mouth 🤡',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Oculus VR Station 🥽',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Magic Show ✨🎩',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+  {
+    name: '',
+    description: 'Archery Station 🎯🏹',
+    imageSrc:
+      '/musicposter.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Stone Painting 🎨',
+    imageSrc:
+      'gamingcoach.webp',
+    imageAlt: 'Gaming Truck Wala',
+  },
+
+  {
+    name: '',
+    description: 'Fairy Garden 🌸',
+    imageSrc:
+      'gamingcoach.webp',
     imageAlt: 'Gaming Truck Wala',
   },
 
@@ -291,15 +369,7 @@ export const products = [
 
   {
     name: '',
-    description: 'Magic Show 🎩',
-    imageSrc:
-      'gamingcoach.webp',
-    imageAlt: 'Gaming Truck Wala',
-  },
-
-  {
-    name: '',
-    description: 'Gaming Truck',
+    description: 'Red Balloon Return Gift Counter 🎁🎈',
     imageSrc:
       'gamingcoach.webp',
     imageAlt: 'Gaming Truck Wala',
