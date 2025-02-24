@@ -17,8 +17,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "3500",
-                "original": "2000"
+                "fake": "15000",
+                "original": "13500"
             },
             // "ldh": {
             //    "fake": "22990",
@@ -99,8 +99,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "800",
+                "original": "500"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -139,8 +139,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "8000",
-                "original": "5000"
+                "fake": "6000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -178,8 +178,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "8000",
+                "original": "6000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -217,8 +217,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "4500",
-                "original": "3000"
+                "fake": "6000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -256,8 +256,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "7000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -295,8 +295,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "12000",
-                "original": "8000"
+                "fake": "6000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -334,8 +334,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "10000",
+                "original": "7000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -373,8 +373,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "7000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -412,8 +412,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "7000",
+                "original": "4000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -529,8 +529,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "3500",
-                "original": "2000"
+                "fake": "6000",
+                "original": "4000"
             },
             // "ldh": {
             //    "fake": "22990",
@@ -568,8 +568,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "3000",
+                "original": "1500"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -608,7 +608,7 @@ const tiers: any = [
         "price": {
             "jal": {
                 "fake": "9000",
-                "original": "5000"
+                "original": "6000"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -646,8 +646,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "900",
+                "original": "600"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -685,8 +685,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "350",
+                "original": "250"
             },
             // "ldh": {
              //    "fake": "31990",
@@ -724,8 +724,8 @@ const tiers: any = [
         "href": "tel:9530677035",
         "price": {
             "jal": {
-                "fake": "9000",
-                "original": "5000"
+                "fake": "1200",
+                "original": "900"
             },
             // "ldh": {
              //    "fake": "31990",
